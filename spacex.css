@@ -1,0 +1,155 @@
+.header{
+    height: 10vh;
+    width: 100vw;
+border: 5px solid black;
+background-color: black;
+}
+
+.navigation{
+  display: flex; 
+  flex-wrap: nowrap;
+  flex-direction: row;
+  justify-content: flex-start
+border: 5px ;
+padding: 26px;
+position: relative;
+
+}
+
+.nav2 {
+    border: 5px black;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 74px;
+    right: 0px;
+    
+}
+
+.empire{
+  
+    font-family: 'Permanent Marker', cursive;
+    color: red;
+    font-size: xxx-large;
+    position: relative;
+    bottom: 5px;
+    right: -10px;
+    
+
+
+}
+
+.nav {
+    border: 10px solid black;
+    color: white;
+    position: relative;
+    top: 38px;
+    left: 30px;
+
+}
+
+.nav3 {
+    color: silver;
+    border: 10px solid black;
+    position: relative;
+    top: 13px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.body{
+background-color: black;
+
+}
+
+
+.main img{
+height: 75vh;
+width: 100vw;
+}
+
+.sec2 {
+    width: 100vw;
+    height: 10vh;
+    background-color: white;
+}
+
+.p1{
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    padding: 25px;
+
+}
+
+.sec3{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    width: 100vw;
+}
+
+.box{
+    border: 5px;
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    padding: 20px;
+    
+
+}
+
+.box img {
+    width: 100%;
+    height: 80%;
+
+}
+
+h3 {
+    color: red;
+}
+
+.p2{
+    color: black;
+}
+
+.sec4{
+    width: 100vw;
+    height: 30vh;
+    background-color: white;
+}
+
+
+footer{
+    border: 5px;
+    width: 100vw;
+    height: 10vh;
+}
+
+.p3 {
+color: red;
+position: relative;
+font-size: large;
+top: 38px;
+left: 280px;
+
+}
+
+.footer1 {
+color: gray;
+position: relative;
+left: 350px;
+}
+
+.p4 {
+color: gray;
+text-align: right;
+position: relative;
+bottom: 32px;
+right: 40px;
+}
